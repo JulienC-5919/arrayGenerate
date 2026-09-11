@@ -1,3 +1,3 @@
-module awesomeProject5
+module arrayGenerate
 
 go 1.27

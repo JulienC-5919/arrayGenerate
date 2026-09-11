@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4a7e7201-2f20-4061-a4d8-adaf559d61da" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,23 +22,23 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0820783940948746" />
-      <entry key="MS500" value="2.745589890105782" />
-      <entry key="S2" value="5.706972359326842" />
-      <entry key="S5" value="11.184790670508832" />
-      <entry key="S10" value="19.014094825597763" />
-      <entry key="S30" value="30.899462427172764" />
-      <entry key="S60" value="35.47799076114958" />
-      <entry key="M2" value="38.10869012555004" />
-      <entry key="M5" value="39.81046020026706" />
-      <entry key="M10" value="40.39957502476274" />
-      <entry key="M15" value="40.59844843992364" />
-      <entry key="M30" value="40.7985871820148" />
-      <entry key="H1" value="40.899133782218314" />
-      <entry key="H2" value="40.94952687003012" />
-      <entry key="H4" value="40.97475342112134" />
-      <entry key="D1" value="40.99579084530238" />
-      <entry key="W1" value="40.999398658097704" />
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0" />
+      <entry key="S5" value="1.0" />
+      <entry key="S10" value="1.0000000000000095" />
+      <entry key="S30" value="1.0001723598193828" />
+      <entry key="S60" value="1.0697175224577165" />
+      <entry key="M2" value="2.658849265454024" />
+      <entry key="M5" value="14.973753784164588" />
+      <entry key="M10" value="31.29481670902011" />
+      <entry key="M15" value="40.513966953338674" />
+      <entry key="M30" value="52.737525988760794" />
+      <entry key="H1" value="60.286151392241734" />
+      <entry key="H2" value="64.48635145624648" />
+      <entry key="H4" value="66.70251594633035" />
+      <entry key="D1" value="68.61130860837304" />
+      <entry key="W1" value="68.9443294412611" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
@@ -60,23 +60,23 @@
       <entry key="W1" value="0.0" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="1.0574850049123028" />
-      <entry key="MS500" value="2.717013268730749" />
-      <entry key="S2" value="5.690371347948855" />
-      <entry key="S5" value="11.1730552338316" />
-      <entry key="S10" value="19.004091707255455" />
-      <entry key="S30" value="30.893750748686532" />
-      <entry key="S60" value="35.47464629544638" />
-      <entry key="M2" value="38.10687451079886" />
-      <entry key="M5" value="39.80969642945193" />
-      <entry key="M10" value="40.3991866073063" />
-      <entry key="M15" value="40.59818802210575" />
-      <entry key="M30" value="40.7984562312935" />
-      <entry key="H1" value="40.89906812038763" />
-      <entry key="H2" value="40.94949399236958" />
-      <entry key="H4" value="40.97473697058878" />
-      <entry key="D1" value="40.995788101920276" />
-      <entry key="W1" value="40.99939826614612" />
+      <entry key="MS100" value="0.9592641193252643" />
+      <entry key="MS500" value="0.9917167307382933" />
+      <entry key="S2" value="0.9979227189990506" />
+      <entry key="S5" value="0.999168569213607" />
+      <entry key="S10" value="0.9995841981612285" />
+      <entry key="S30" value="1.000033517978151" />
+      <entry key="S60" value="1.0696027284893916" />
+      <entry key="M2" value="2.658340799401416" />
+      <entry key="M5" value="14.972509678929123" />
+      <entry key="M10" value="31.29363969336575" />
+      <entry key="M15" value="40.51299265492216" />
+      <entry key="M30" value="52.736919838363605" />
+      <entry key="H1" value="60.285813038325486" />
+      <entry key="H2" value="64.48617266537671" />
+      <entry key="H4" value="66.70242404088013" />
+      <entry key="D1" value="68.61129293278306" />
+      <entry key="W1" value="68.9443271929983" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
@@ -113,14 +113,6 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
     </key>
-  </component>
-  <component name="SharedIndexes">
-    <attachedChunks>
-      <set>
-        <option value="bundled-gosdk-63c95d513abe-9addb268e56c-org.jetbrains.plugins.go.sharedIndexes.bundled-GO-262.9437.286" />
-        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-GO-262.9437.286" />
-      </set>
-    </attachedChunks>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
