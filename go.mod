@@ -1,3 +1,3 @@
-module arrayGenerate
+module github.com/JulienC-5919/arrayGenerate
 
-go 1.27
+go 1.22
